@@ -1,2 +1,2 @@
-# web_development
+# day1 internship
 frontend development
